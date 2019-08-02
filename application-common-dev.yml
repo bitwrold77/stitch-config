@@ -1,0 +1,7 @@
+server:
+  port: 7001
+  max-http-header-size: 10240000
+spring:
+  application:
+    name: common-service
+  
